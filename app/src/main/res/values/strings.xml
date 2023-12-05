@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Run</string>
+    <string name="Chances">Chances Remaining: 7</string>
+    <string name="Estimation">Enter your guess</string>
+    <string name="CheckString">Check</string>
+    <string name="ResetString">Reset</string>
+    <string name="chances_remaining_template">Chances remaining: %d</string>
+    <string name="enter_valid_number">Invalid Number</string>
+    <string name="congratulations">Congratulations! You found it</string>
+    <string name="too_low">It is too low</string>
+    <string name="too_high">It is too high</string>
+    <string name="out_of_attempts">Sorry :( you have run out of attempts. The correct number was %d</string>
+    <string name="None"> </string>
+</resources>
