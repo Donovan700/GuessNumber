@@ -15,6 +15,8 @@ What you need to install before running the software:
 - [Configure SDK](Configure it on Android Studio)
 - [Try it out](Run it from now)
 
+Enjoyyyy !!!!
+
 ### Installation
 
 ```bash
