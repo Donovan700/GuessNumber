@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">Run</string>
+    <string name="app_name">Right Number</string>
     <string name="Chances">Chances Remaining: 7</string>
-    <string name="Estimation">Enter your guess</string>
+    <string name="Estimation">Enter your guess 0-100</string>
     <string name="CheckString">Check</string>
     <string name="ResetString">Reset</string>
     <string name="chances_remaining_template">Chances remaining: %d</string>
